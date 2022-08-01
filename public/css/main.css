@@ -1,9 +1,10 @@
+
 body {
   background: rgb(196, 194, 194);
   margin: 2%;
 }
 
-header {
+.navbar-expand-lg {
   border: solid 2px black;
   margin-bottom: 1%;
 }
@@ -36,4 +37,3 @@ header {
   }
 }
 
-/*# sourceMappingURL=main.css.map */
