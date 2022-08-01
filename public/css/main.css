@@ -36,4 +36,21 @@ body {
     width: 10%;
   }
 }
+main{
+  display: flex;
+}
+.side-bar{
+  background-color: blueviolet;
+  width:auto;
+}
 
+.cards{
+display: flex;
+flex-wrap: wrap;
+width:auto;
+}
+
+.card{
+margin: 1%;
+width: 400%;
+}
