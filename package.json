@@ -1,0 +1,22 @@
+{
+  "name": "animationrecord",
+  "version": "1.0.0",
+  "description": "a git Animation Record exercise",
+  "main": "index.js",
+  "scripts": {
+    "buildcss": "sass --watch src/sass:public/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julieta3164/AnimationRecord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julieta3164/AnimationRecord/issues"
+  },
+  "homepage": "https://github.com/Julieta3164/AnimationRecord#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}

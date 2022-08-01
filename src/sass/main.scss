@@ -1,0 +1,38 @@
+body{
+    background: rgb(196, 194, 194);
+    margin: 2%;
+}
+header{
+    border: solid 2px black;
+    margin-bottom: 1%;
+}
+
+@media (min-width: 992px){
+.navbar-expand-lg{
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+
+}
+.navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
+}
+
+.active{
+    border: solid 2px black;
+    margin-bottom: 1%;
+    img{
+        width: 100px;
+        height: 400px;
+    }
+}
+
+
+@media (min-width: 992px){
+.carousel-indicators{
+   width: 10%;
+}
+}
