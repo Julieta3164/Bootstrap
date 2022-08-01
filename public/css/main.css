@@ -101,6 +101,7 @@ background: rgb(45, 45, 44);
 
 .section-B{
   margin-top: 3%;
+  padding: 2%;
   background: gray;
 }
 h3{
@@ -120,9 +121,22 @@ h3{
   
 }
 .card-img-top-end{
-  width: 60%;
-  height: 60%;
+  width: 40%;
+  height: 40%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
+}
+
+.card-text-end{
+  margin: 3%;
+  font-family: 'Courgette', cursive;
+  text-align: center;
+}
+
+.card-text-end-2{
+  text-align: justify;
+  font-family: 'Asap Condensed', sans-serif;
+  padding: 5%;
+  margin-bottom: 4%;
 }
