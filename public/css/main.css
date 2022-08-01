@@ -53,6 +53,7 @@ body {
 h4{
   font-family: 'Courgette', cursive;
 text-align: center;
+padding: 2%;
 margin: 5%;
 }
 .card-bar img{
@@ -97,9 +98,28 @@ border-radius:50px 50px 50px 50px;
 background: rgb(45, 45, 44);
 }
 
-.card-img-top{
-  width: 100px;
-  height: 100px;
+
+.section-B{
+  margin-top: 3%;
+  background: gray;
+}
+h3{
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.restaurat{
+
+  display: flex;
+
+  
+}
+.card-end{
+  text-align: center;
+}
+.card-img-top-end{
+  width: 60%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
