@@ -140,3 +140,20 @@ h3{
   padding: 5%;
   margin-bottom: 4%;
 }
+
+footer{
+  margin-top: 5%;
+  border-top: solid 1px black;
+  display: flex;
+  justify-content: space-between;
+}
+
+span{
+  background: gray;
+  color: gray;
+  font-size: 150%;
+}
+
+i{
+  margin: auto;
+}
