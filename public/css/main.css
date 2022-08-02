@@ -154,6 +154,23 @@ span{
   font-size: 150%;
 }
 
-i{
-  margin: auto;
+.left{
+  width: 33%;
 }
+
+.center{
+  width: 33%;
+}
+
+.right {
+  width: 33%;
+  font-size: 120%;
+  display: flex;
+  margin-left: 70%;
+  justify-content: space-around;
+}
+/* 
+i{
+  margin-left: 5%;
+  margin-right: 5%;
+} */
